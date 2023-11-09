@@ -37,3 +37,27 @@ The application window will open. Follow these steps to analyze a CV:
 - Click the "Submit Analysis" button to generate the analysis.
 
 The results will be displayed in the text area at the bottom of the application window.
+
+## Configuration
+
+Before running the application, you need to set your OpenAI API key. Replace 'here your openai key' with your actual key in the cv_analyzer.py script:
+
+```python
+openai.api_key = 'your-openai-api-key'
+```
+
+## Contributions
+
+Contributions are welcome. If you would like to contribute to the project, please fork the repository and submit a pull request with your proposed changes.
+
+##Support
+
+If you encounter any issues or have questions about the application, please submit an issue on the GitHub repository.
+
+## License
+
+CV Analyzer is released under the MIT License. See the LICENSE file in the repository for full details.
+
+## Contact
+
+For further contact, you can reach out to the repository maintainer via GitHub.
