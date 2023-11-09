@@ -32,7 +32,7 @@ pip install PyPDF2 openai tkinter
 To start the application, run the cv_analyzer.py script:
 
 ```bash
-python cv_analyzer.py
+python cv_job_fit.py
 ```
 
 The application window will open. Follow these steps to analyze a CV:
