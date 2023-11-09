@@ -22,3 +22,18 @@ Once Python is installed, you will need to install the required dependencies:
 pip install PyPDF2 openai tkinter
 ```
 
+## Usage
+
+To start the application, run the cv_analyzer.py script:
+
+```bash
+python cv_analyzer.py
+```
+
+The application window will open. Follow these steps to analyze a CV:
+
+- Enter the job profile in the text box provided.
+- Click the "Upload CV PDF" button to select and upload the candidate's CV in PDF format.
+- Click the "Submit Analysis" button to generate the analysis.
+
+The results will be displayed in the text area at the bottom of the application window.
