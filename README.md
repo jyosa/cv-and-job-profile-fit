@@ -1,6 +1,11 @@
 # CV job profile fit
 
 
+[<img src="https://img.youtube.com/vi/q90sRselN94/hqdefault.jpg" width="800" height="600"
+/>](https://www.youtube.com/embed/q90sRselN94)
+
+
+
 ## Description
 
 CV Analyzer is a desktop application built with Python and Tkinter, designed to assist HR professionals and recruiters in the process of analyzing resumes/CVs. It automates the comparison of a candidate's CV against a job profile using OpenAI's language model. This tool extracts text from a PDF CV, formulates an analysis prompt, and generates insights on the candidate's strengths, weaknesses, and overall fit for the role.
